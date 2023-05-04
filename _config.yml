@@ -1,6 +1,9 @@
 title: Pycross Game
 logo: /assets/img/logo.png
 description: Picross in Python.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+github:
+  repository_url: https://github.com/olincollege/pycross
+  repository_nwo: olincollege/pycross 
