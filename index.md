@@ -2,6 +2,19 @@
 layout: default
 ---
 
+## Welcome to Pycross
+#### A picross game coded in Python
+
+### About Us
+
+### What is Picross
+
+### Play Picross
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
