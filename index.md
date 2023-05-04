@@ -26,11 +26,11 @@ Download/installation instructions can be found here:
 ## About Us
 In a world with many picross apps, websites, and physical books of picross puzzels, we three picross enjoyers set out to create a competitive picross app, using our favorite features of picross game design. We are:
 
-**Karina:**
+[**Karina:**](https://github.com/kclamoreux)
 
-**Kelsey:** A freshman who spends hours on picross puzzles only to realize he made a mistake hours ago that forever altered his picross path (he will have to start over)
+[**Kelsey:**](https://github.com/kelsedilla) A freshman who spends hours on picross puzzles only to realize he made a mistake hours ago that forever altered his picross path (he will have to start over)
 
-**Lauren:**
+[**Lauren:**]([https://github.com/kclamoreux](https://github.com/lnalajala))
 
 ## Resources
-Our game is programmed in Python using pygame (https://www.pygame.org/news)
+Our game is programmed in Python using pygame[Pygame](https://www.pygame.org/news)
