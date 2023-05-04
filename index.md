@@ -7,7 +7,7 @@ layout: default
 
 ## What is Picross
 Picross is a puzzle game, sometimes known as nonograms or hanjie, in which the player solves clues to create a pixel art image as the final solution. Pycross: Picross Puzzels, is a simple picross game made for multiple players on one computer. Each player solves the puzzel on their own, and their time is taken and added to a leaderboard for players to compare their times.
-#### How to play
+### How to play
 To solve the puzzel, 
 
 ## Gameplay
