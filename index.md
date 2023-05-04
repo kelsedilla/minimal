@@ -25,8 +25,11 @@ Download/installation instructions can be found here:
 
 ## About Us
 In a world with many picross apps, websites, and physical books of picross puzzels, we three picross enjoyers set out to create a competitive picross app, using our favorite features of picross game design. We are:
+
 **Karina:**
+
 **Kelsey:** A freshman who spends hours on picross puzzles only to realize he made a mistake hours ago that forever altered his picross path (he will have to start over)
+
 **Lauren:**
 
 ## Resources
