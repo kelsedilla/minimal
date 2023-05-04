@@ -33,4 +33,4 @@ In a world with many picross apps, websites, and physical books of picross puzze
 [**Lauren:**]([https://github.com/kclamoreux](https://github.com/lnalajala))
 
 ## Resources
-Our game is programmed in Python using pygame[Pygame](https://www.pygame.org/news)
+Our game is programmed in Python using [Pygame](https://www.pygame.org/news)
