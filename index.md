@@ -31,7 +31,6 @@ Watch a short game demo here:
 ![Demo](https://user-images.githubusercontent.com/53787940/236494539-08cebdf2-5acc-4fb6-9b42-cd38f4400141.mp4)
 
 
-
 ## Play _Pycross: Picross Puzzels_
 To play Pycross, clone the game repository using:
 
