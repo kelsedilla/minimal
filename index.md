@@ -41,7 +41,7 @@ In a world with many picross apps, websites, and physical books of picross puzze
 
 [**Kelsey:**](https://github.com/kelsedilla) A freshman who spends hours on picross puzzles only to realize he made a mistake hours ago that forever altered his picross path (he will have to start over)
 
-[**Lauren:**](https://github.com/lnalajala)
+[**Lauren:**](https://github.com/lnalajala) A sophomore who has watched large swathes of her life disappear to puzzles and wants to help other people do the same!
 
 ## Resources
 Our game is programmed in Python using [Pygame](https://www.pygame.org/news)
