@@ -56,7 +56,7 @@ Once these steps are complete, play the game by running the pycross_main.py file
 ---
 
 ## About Us
-In a world with many picross apps, websites, and physical books of picross puzzels, we three picross enjoyers set out to create a competitive picross app, using our favorite features of picross game design. We are:
+In a world with many picross apps, websites, and physical books of picross puzzels, we three picross enjoyers set out to create a competitive picross app, using our favorite features of picross game design. Click our names to view out Github pages! We are:
 
 [**Karina:**](https://github.com/kclamoreux) A sophomore who loves puzzles and wants to make her own!
 
