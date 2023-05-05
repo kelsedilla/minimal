@@ -26,7 +26,10 @@ When you start the game you will be prompted to type in a user name to identify 
 * Click 'Clear' to clear the board
 * Click 'Done' to check your answer, if you solved the puzzle correctly, your time will be added to the leaderboard!
 
-Watch a game demo here: [Youtube link]
+## Watch our full presentation on youtube(LINK)
+Watch a short game demo here:
+![Demo](https://user-images.githubusercontent.com/53787940/236494539-08cebdf2-5acc-4fb6-9b42-cd38f4400141.mp4)
+
 
 
 ## Play _Pycross: Picross Puzzels_
