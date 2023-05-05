@@ -24,15 +24,15 @@ When you start the game you will be prompted to type in a user name to identify 
 Watch a game demo here: [Youtube link]
 
 ## Play Picross: Picross Puzzels
-Download/installation instructions can be found here:
+To play Pycross, clone the game repository using:
 
-To play _Pycross: Picross Puzzles_ pygame and pandas packages are required.
-### Pygame:
-$ sudo apt install build-essential libsdl2-dev python3-pygame2 <p>
-$ pip install pygame
+```$ git clone git@github.com:olincollege/pycross.git```
 
-### Pandas:
-$ pip install pandas
+Pycross uses a few outside python packages -- Pygame and Pandas. All the necessary files are indluced in requirements.txt. Run the following command to install the packages. 
+
+```$ pip install -r requirements.txt```
+
+Once these steps are complete, play the by running the pycross_main.py file.
 
 ## About Us
 In a world with many picross apps, websites, and physical books of picross puzzels, we three picross enjoyers set out to create a competitive picross app, using our favorite features of picross game design. We are:
