@@ -26,7 +26,7 @@ When you start the game you will be prompted to type in a user name to identify 
 * Click 'Clear' to clear the board
 * Click 'Done' to check your answer, if you solved the puzzle correctly, your time will be added to the leaderboard!
 
-## Watch our full presentation on youtube(LINK)
+[**Watch our full presentation on youtube**](https://youtu.be/qCJYQak1pWk)
 Watch a short game demo here:
 ![Demo](https://user-images.githubusercontent.com/53787940/236494539-08cebdf2-5acc-4fb6-9b42-cd38f4400141.mp4)
 
