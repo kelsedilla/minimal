@@ -25,7 +25,7 @@ Download/installation instructions can be found here:
 
 To play _Pycross: Picross Puzzles_ pygame and pandas packages are required.
 ### Pygame:
-$ sudo apt install build-essential libsdl2-dev python3-pygame2
+$ sudo apt install build-essential libsdl2-dev python3-pygame2 <p>
 $ pip install pygame
 
 ### Pandas:
