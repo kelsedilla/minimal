@@ -70,4 +70,6 @@ In a world with many picross apps, websites, and physical books of picross puzze
 
 ## Resources
 Our game is programmed in Python using [Pygame](https://www.pygame.org/news) and [Pandas](https://pandas.pydata.org/)
+
+---
   
