@@ -23,8 +23,8 @@ When you start the game you will be prompted to type in a user name to identify 
 * Left click to set a box as 'on', or filled in
 * Right click to set a box as 'off', indicating that a space will be empty in the final solution
 * Click on a clue to grey it out, click again to un-grey it
-* Click 'clear' to clear the board
-* Click 'done' to check your answer, if you solved the puzzle correctly, your time will be added to the leader board!
+* Click 'Clear' to clear the board
+* Click 'Done' to check your answer, if you solved the puzzle correctly, your time will be added to the leaderboard!
 
 Watch a game demo here: [Youtube link]
 
