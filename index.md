@@ -6,7 +6,7 @@ layout: default
 ### A picross game coded in Python
 
 ## What is Picross
-Picross is a puzzle game, sometimes known as nonograms or hanjie, in which the player solves clues to create a pixel art image as the final solution. _Pycross: Picross Puzzels_, is a simple picross game made for multiple players on one computer. Each player solves the puzzld on their own, and their time is taken and added to a leaderboard for players to compare their times.
+Picross is a puzzle game, sometimes known as nonograms or hanjie, in which the player solves clues to create a pixel art image as the final solution. _Pycross: Picross Puzzels_, is a simple picross game made for multiple players on one computer. Each player solves the puzzle on their own, and their time is taken and added to a leaderboard for players to compare their times.
 ### How to Picross
 For each row, and for each column, there are a list of numbers. These clues indicate the number of filled in, or 'on', spaces in each clump of filled in spaces. 
 
@@ -19,11 +19,16 @@ For example: if a row has the clues 2 1 4, that means that in that row, there is
 The player cross references the rows and columns to deduce which spaces must be filled in, and which must be empty based on the clues. In the photo above, the last column has a clue of 0, so we know it must be empty, that means that we can deduce the placement of each filled in space in that row. In the end, the filled in spaces will reveal a pixel art image.
 
 ## _Pycross: Picross Puzzels_ Gameplay
-When you start the game you will be prompted to type in a user name to identify you on the leaderboard. From there, gameplay works as a typical picross puzzel. Left click to set a box as 'on', or filled in. Right click to set a box as 'off', indicating that a space will be empty in the final solution. To mark a clue as finished, click on the number to grey it out, click again to un-grey it. Click the 'clear' button to clear the board. Click 'done' to check your answer, if you solved the puzzle, your time will be added to the leader board!
+When you start the game you will be prompted to type in a user name to identify you on the leaderboard. From there, gameplay works as a typical picross puzzel:
+* Left click to set a box as 'on', or filled in
+* Right click to set a box as 'off', indicating that a space will be empty in the final solution
+* Click on a clue to grey it out, click again to un-grey it
+* Click 'clear' to clear the board
+* Click 'done' to check your answer, if you solved the puzzle correctly, your time will be added to the leader board!
 
 Watch a game demo here: [Youtube link]
 
-## Play Picross: Picross Puzzels
+## Play _Pycross: Picross Puzzels_
 To play Pycross, clone the game repository using:
 
 ```$ git clone git@github.com:olincollege/pycross.git```
