@@ -25,7 +25,6 @@ Watch a game demo here: [Youtube link]
 
 ## Play Picross: Picross Puzzels
 Download/installation instructions can be found here:
-[Link to another page](./another-page.html).
 
 To play _Pycross: Picross Puzzles_ pygame and pandas packages are required.
 ### Pygame:
