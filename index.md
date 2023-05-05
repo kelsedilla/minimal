@@ -60,6 +60,8 @@ In a world with many picross apps, websites, and physical books of picross puzze
 
 [**Lauren:**](https://github.com/lnalajala) A sophomore who has watched large swathes of her life disappear to puzzles and wants to help other people do the same!
 
+---
+
 ## Resources
 Our game is programmed in Python using [Pygame](https://www.pygame.org/news) and [Pandas](https://pandas.pydata.org/)
   
