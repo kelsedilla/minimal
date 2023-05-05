@@ -8,7 +8,11 @@ layout: default
 ## What is Picross
 Picross is a puzzle game, sometimes known as nonograms or hanjie, in which the player solves clues to create a pixel art image as the final solution. _Pycross: Picross Puzzels_, is a simple picross game made for multiple players on one computer. Each player solves the puzzld on their own, and their time is taken and added to a leaderboard for players to compare their times.
 ### How to Picross
-For each row, and for each column, there are a list of numbers. These clues indicate the number of filled in, or 'on', spaces in each clump of filled in spaces. For example: if a row has the clues 1 3 2, that means that in that row, there is a group of 1 filled in space, a group of 3 filled in spaces, and a group of 2 filled in spaces. These groups could have any amount of empty space in between them.
+For each row, and for each column, there are a list of numbers. These clues indicate the number of filled in, or 'on', spaces in each clump of filled in spaces. 
+![image](https://user-images.githubusercontent.com/53787940/236456617-d155d8f2-a2b6-40b3-b0c8-ec7c7d4ac5fe.png)
+For example: if a row has the clues 2 1 4, that means that in that row, there is a group of 2 filled in spaces, 1 filled in space, and a group of 4 filled in spaces. These groups could have any amount of empty space in between them.
+
+![image](https://user-images.githubusercontent.com/53787940/236456864-00746768-2d2f-49ba-896e-79efd3a3b514.png)
 
 The player cross references the rows and columns to deduce which spaces must be filled in, and which must be empty based on the clues. In the end, the filled in spaces reveal a pixel art image.
 
