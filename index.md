@@ -49,7 +49,7 @@ To play Pycross, clone the game repository using:
 
 ```$ git clone git@github.com:olincollege/pycross.git```
 
-Pycross uses a few outside python packages -- Pygame and Pandas. All the necessary files are indluced in requirements.txt. Run the following command to install the packages. 
+Pycross uses a few outside python packages -- Pygame and Pandas. All the necessary files are included in requirements.txt. Run the following command to install the packages. 
 
 ```$ pip install -r requirements.txt```
 
