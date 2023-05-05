@@ -19,6 +19,8 @@ For example: if a row has the clues 2 1 4, that means that in that row, there is
 
 The player cross references the rows and columns to deduce which spaces must be filled in, and which must be empty based on the clues. In the photo above, the last column has a clue of 0, so we know it must be empty, that means that we can deduce the placement of each filled in space in that row. In the end, the filled in spaces will reveal a pixel art image.
 
+---
+
 ## _Pycross: Picross Puzzels_ Gameplay
 When you start the game you will be prompted to type in a user name to identify you on the leaderboard. From there, gameplay works as a typical picross puzzel:
 * Left click to set a box as 'on', or filled in
@@ -34,6 +36,8 @@ Watch a short game demo here:
 </video>
 
 
+---
+
 ## Download _Pycross: Picross Puzzels_
 To play Pycross, clone the game repository using:
 
@@ -44,6 +48,8 @@ Pycross uses a few outside python packages -- Pygame and Pandas. All the necessa
 ```$ pip install -r requirements.txt```
 
 Once these steps are complete, play the game by running the pycross_main.py file.
+
+---
 
 ## About Us
 In a world with many picross apps, websites, and physical books of picross puzzels, we three picross enjoyers set out to create a competitive picross app, using our favorite features of picross game design. We are:
