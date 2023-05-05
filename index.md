@@ -6,7 +6,7 @@ layout: default
 ### A picross game coded in Python
 
 ## What is Picross
-Picross is a puzzle game, sometimes known as nonograms or hanjie, in which the player solves clues to create a pixel art image as the final solution. _Pycross: Picross Puzzels_, is a simple picross game made for multiple players on one computer. Each player solves the puzzel on their own, and their time is taken and added to a leaderboard for players to compare their times.
+Picross is a puzzle game, sometimes known as nonograms or hanjie, in which the player solves clues to create a pixel art image as the final solution. _Pycross: Picross Puzzels_, is a simple picross game made for multiple players on one computer. Each player solves the puzzld on their own, and their time is taken and added to a leaderboard for players to compare their times.
 ### How to Picross
 For each row, and for each column, there are a list of numbers. These clues indicate the number of filled in, or 'on', spaces in each clump of filled in spaces. For example: if a row has the clues 1 3 2, that means that in that row, there is a group of 1 filled in space, a group of 3 filled in spaces, and a group of 2 filled in spaces. These groups could have any amount of empty space in between them.
 
@@ -23,10 +23,18 @@ When you start the game you will be prompted to type in a user name to identify 
 Download/installation instructions can be found here:
 [Link to another page](./another-page.html).
 
+To play _Pycross: Picross Puzzles_ pygame and pandas packages are required.
+### Pygame:
+$ sudo apt install build-essential libsdl2-dev python3-pygame2
+$ pip install pygame
+
+### Pandas:
+$ pip install pandas
+
 ## About Us
 In a world with many picross apps, websites, and physical books of picross puzzels, we three picross enjoyers set out to create a competitive picross app, using our favorite features of picross game design. We are:
 
-[**Karina:**](https://github.com/kclamoreux)
+[**Karina:**](https://github.com/kclamoreux) A sophomore who loves puzzles and wants to make her own!
 
 [**Kelsey:**](https://github.com/kelsedilla) A freshman who spends hours on picross puzzles only to realize he made a mistake hours ago that forever altered his picross path (he will have to start over)
 
