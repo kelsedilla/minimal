@@ -29,6 +29,10 @@ When you start the game you will be prompted to type in a user name to identify 
 * Click 'Clear' to clear the board
 * Click 'Done' to check your answer, if you solved the puzzle correctly, your time will be added to the leaderboard!
 
+---
+
+## Video Demo
+
 ### [**Click here to watch our full presentation on youtube**](https://youtu.be/qCJYQak1pWk)
 
 Watch a short game demo here:
