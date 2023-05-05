@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# Welcome to _Pycross: Picross Puzzels_
+# Welcome to _Pycross: Picross Puzzles_
 ### A picross game coded in Python
 
 
 ## What is Picross
-Picross is a puzzle game, sometimes known as nonograms or hanjie, in which the player solves clues to create a pixel art image as the final solution. _Pycross: Picross Puzzels_, is a simple picross game made for multiple players on one computer. Each player solves the puzzle on their own, and their time is taken and added to a leaderboard for players to compare their times.
+Picross is a puzzle game, sometimes known as nonograms or hanjie, in which the player solves clues to create a pixel art image as the final solution. _Pycross: Picross Puzzles_, is a simple picross game made for multiple players on one computer. Each player solves the puzzle on their own, and their time is taken and added to a leaderboard for players to compare their times.
 ### How to solve a Picross puzzle
-For each row, and for each column, there are a list of numbers. These clues indicate the number of filled in, or 'on', spaces in each clump of filled in spaces. 
+For each row, and for each column, there is a list of numbers. These clues indicate the number of filled in, or 'on', spaces in each clump of filled in spaces. 
 
 ![image](https://user-images.githubusercontent.com/53787940/236456617-d155d8f2-a2b6-40b3-b0c8-ec7c7d4ac5fe.png)
 
@@ -21,8 +21,8 @@ The player cross references the rows and columns to deduce which spaces must be 
 
 ---
 
-## _Pycross: Picross Puzzels_ Gameplay
-When you start the game you will be prompted to type in a user name to identify you on the leaderboard. From there, gameplay works as a typical picross puzzel:
+## _Pycross: Picross Puzzles_ Gameplay
+When you start the game you will be prompted to type in a user name to identify you on the leaderboard. From there, gameplay works as a typical picross puzzle:
 * Left click to set a box as 'on', or filled in
 * Right click to set a box as 'off', indicating that a space will be empty in the final solution
 * Click on a clue to grey it out, click again to un-grey it
