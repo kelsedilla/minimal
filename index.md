@@ -18,8 +18,6 @@ For example: if a row has the clues 2 1 4, that means that in that row, there is
 
 The player cross references the rows and columns to deduce which spaces must be filled in, and which must be empty based on the clues. In the photo above, the last column has a clue of 0, so we know it must be empty, that means that we can deduce the placement of each filled in space in that row. In the end, the filled in spaces will reveal a pixel art image.
 
-[photos as nessecary to help instructions]
-
 ## _Pycross: Picross Puzzels_ Gameplay
 When you start the game you will be prompted to type in a user name to identify you on the leaderboard. From there, gameplay works as a typical picross puzzel. Left click to set a box as 'on', or filled in. Right click to set a box as 'off', indicating that a space will be empty in the final solution. To mark a clue as finished, click on the number to grey it out, click again to un-grey it. Click the 'clear' button to clear the board. Click 'done' to check your answer, if you solved the puzzle, your time will be added to the leader board!
 
